@@ -1,0 +1,5 @@
+D:\Cristian Mazza\procesador-matematico\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.csproj.AssemblyReference.cache
+D:\Cristian Mazza\procesador-matematico\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian Mazza\procesador-matematico\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.AssemblyInfoInputs.cache
+D:\Cristian Mazza\procesador-matematico\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.AssemblyInfo.cs
+D:\Cristian Mazza\procesador-matematico\primer-parcial-unit-test-procesador-matematico\obj\Debug\net5.0\primer-parcial-unit-test-procesador-matematico.csproj.CoreCompileInputs.cache
