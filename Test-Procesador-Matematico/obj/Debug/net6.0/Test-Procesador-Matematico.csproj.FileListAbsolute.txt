@@ -1,6 +1,0 @@
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\bin\Debug\net6.0\CoverletSourceRootsMapping
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\obj\Debug\net6.0\Test-Procesador-Matematico.csproj.AssemblyReference.cache
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\obj\Debug\net6.0\Test-Procesador-Matematico.GeneratedMSBuildEditorConfig.editorconfig
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\obj\Debug\net6.0\Test-Procesador-Matematico.AssemblyInfoInputs.cache
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\obj\Debug\net6.0\Test-Procesador-Matematico.AssemblyInfo.cs
-D:\Cristian Mazza\procesador-matematico\Test-Procesador-Matematico\obj\Debug\net6.0\Test-Procesador-Matematico.csproj.CoreCompileInputs.cache
